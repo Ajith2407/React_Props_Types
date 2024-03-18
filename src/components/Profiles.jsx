@@ -59,7 +59,7 @@ const Userdata =[
         name:"Malli",
         address:"Viruthachallam",
         role:"Full-Stack-Developer",
-        skills: ["UI/UX","Full-stack-Developer","HTML","CSS","Flutter",,"java","python"],
+        skills: ["Full-stack-Developer","HTML","CSS","Flutter",,"java","python"],
         profile:true,
         img:"images/gayethri.jpeg"
 
@@ -67,8 +67,8 @@ const Userdata =[
     {
         name:"Priya",
         address:"Chengalpattu",
-        role:"flutter-Developer",
-        skills: ["UI/UX","Full-End-Developer","HTML","CSS","React Native",,"java","python"],
+        role:"MERN STACK",
+        skills: ["UI/UX","Front-Developer","HTML","CSS","React Native","java","python"],
         profile:false,
         img:"images/Malli.jpeg"
 
