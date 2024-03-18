@@ -65,7 +65,7 @@ const Userdata =[
 
     },
     {
-        name:"Gayethri",
+        name:"Priya",
         address:"Chengalpattu",
         role:"flutter-Developer",
         skills: ["UI/UX","Full-End-Developer","HTML","CSS","React Native",,"java","python"],
